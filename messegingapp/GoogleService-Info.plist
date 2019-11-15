@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>67547301409-nonnmtdrslo64rtoo1r1rttvqjd4km5n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.67547301409-nonnmtdrslo64rtoo1r1rttvqjd4km5n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIXKJU0uPgrPA-1-Xe7xE6ocqFyRySz4s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>67547301409</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mean.messegingapp</string>
+	<key>PROJECT_ID</key>
+	<string>fir-crashcourse-78198</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-crashcourse-78198.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:67547301409:ios:8192f021215f5143158560</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-crashcourse-78198.firebaseio.com</string>
+</dict>
+</plist>
